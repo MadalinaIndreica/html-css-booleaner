@@ -37,3 +37,38 @@ h1 {
 .evidenzia {
     background-color: yellow;
 }
+/* table */
+thead  {
+    background-color: rgb(0, 153, 255);
+    color: white;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+  
+}
+.rigablu {
+    background-color: rgb(130, 211, 252);
+
+}
+/* /table */
+/* /section */
+/* lastpictures */
+.monitor {
+    width: 300px;
+    height:600px;
+    background-image: url("../img/monitor.jpg");
+    background-repeat:no-repeat;
+    color: white;
+    
+
+}
+.graph {
+    width: 300px;
+    height:600px;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    
+}
+/* /lastpictures */
