@@ -9,7 +9,7 @@ header {
     width: 25%;
 }
 /* /header */
-/* first section */
+/* section */
 h1 {
     font-size: 250%;
 }
@@ -31,4 +31,9 @@ h1 {
 .descrizionefoto {
     font-size: 70%;
 }
+/* /section */
+/* section */
 
+.evidenzia {
+    background-color: yellow;
+}
